@@ -451,6 +451,8 @@ Use the CLI or Manually Edit: `$HOME/.pocket/config/chains.json`
 {% hint style="info" %} Relay Chain ID's can be
 found [here](https://docs.pokt.network/home/references/supported-blockchains). {% endhint %}
 
+These are external blockchain nodes such as ethereum, polygon are harmony. You will need to set these up by following their respective documentation. Once they are setup, you can enter the url and credentials into the following file. Find links to blockchain node documentation here. 
+
 ```text
 [
   {
